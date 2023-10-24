@@ -1,0 +1,47 @@
+style.css 
+
+body, h1, h2, h3 ul {
+
+  margin:0; 
+  padding:0;
+ color: white;
+}
+
+body  { 
+background-color: rgba(41, 39, 39, 0.393);
+font-family: 'Times New Roman', Times, serif;
+color: white;
+}
+
+
+header{ 
+background-color: pink;
+color: white;
+text-align: center;
+padding: 20px;
+}
+
+nav ul {
+color: white;
+  list-style: none;
+
+}
+
+
+nav ul Li {
+display: inline;
+margin-right: 20px;
+margin-left: 20px;
+
+
+}
+
+p { color: white
+
+
+
+
+
+
+
+}
