@@ -8,21 +8,21 @@ body, h1, h2, h3 ul {
 }
 
 body  { 
-background-color: black;
+background-color: rgba(41, 39, 39, 0.393);
 font-family: 'Times New Roman', Times, serif;
-
+color: white;
 }
 
 
 header{ 
 background-color: pink;
-text-decoration: white;
+color: white;
 text-align: center;
 padding: 20px;
 }
 
 nav ul {
-  text-decoration: white;
+color: white;
   list-style: none;
 
 }
@@ -36,7 +36,7 @@ margin-left: 20px;
 
 }
 
-p { text-decoration: white;
+p { color: white
 
 
 
