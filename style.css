@@ -1,6 +1,6 @@
 style.css 
 
-body, h1, h2, ul {
+body, h1, h2, h3 ul {
 
   margin:0; 
   padding:0;
@@ -32,6 +32,16 @@ nav ul Li {
 display: inline;
 margin-right: 20px;
 margin-left: 20px;
+
+
+}
+
+p { text-decoration: white;
+
+
+
+
+
 
 
 }
