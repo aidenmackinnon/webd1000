@@ -9,15 +9,15 @@ body, h1, h2, h3 ul {
 }
 
 body  { 
-background-color: rgba(248, 236, 197, 0.874);
+background-color: rgba(49, 15, 217, 0.874);
 font-family: 'Times New Roman', Times, serif;
-color: black;
+color: rgb(255, 252, 252);
 }
 
 
 header{ 
-background-color: pink;
-color: white;
+background-color: rgb(253, 253, 253);
+color: rgba(2, 2, 255, 0.669);
 text-align: center;
 padding: 20px;
 }
@@ -52,3 +52,4 @@ h3 { text-align: center;
 
 
 }
+
