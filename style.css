@@ -1,3 +1,6 @@
+
+
+
 style.css 
 
 body, h1, h2, h3 ul {
@@ -9,7 +12,7 @@ body, h1, h2, h3 ul {
 }
 
 body  { 
-background-color: rgba(49, 15, 217, 0.874);
+background-color: rgba(49, 15, 217, 0.354);
 font-family: 'Times New Roman', Times, serif;
 color: rgb(255, 252, 252);
 }
@@ -52,3 +55,4 @@ h3 { text-align: center;
 
 
 }
+
